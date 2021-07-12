@@ -1,0 +1,22 @@
+ul, ol {
+    list-style: none;
+}
+
+ul {
+    display: flex;
+    justify-content: space-between;
+    align-items: center;
+}
+
+li {
+    width: 20%;
+    margin-top: 20px;
+    border: 2px solid rgb(173, 173, 231);
+    border-radius: 10px;
+}
+
+img {
+    width: 100%;
+    margin: 10px auto !important;
+    margin-left: 100px !important;
+}
